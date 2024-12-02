@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -f gap_SiO.xml O.soapparam Si.soapparam fitted.mtp mlip.ini input.nn scaling.data weights.008.data weights.014.data SNAPotential.snapcoeff SNAPotential.snapparam
+
